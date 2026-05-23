@@ -57,12 +57,5 @@ I design and build **Retrieval-Augmented Generation (RAG) pipelines**, semantic 
 | **Web & UI** | React · Next.js · D3.js · Tailwind CSS · Gradio |
 | **Dev** | Python · Git · Redis · Pydantic · pytest · REST APIs |
 
----
-
-## 📊 GitHub Stats
-
-![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashishPatnaik&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a20&title_color=1e6fff&icon_color=1e6fff&text_color=ffffff)
-
----
 
 *Open to LLM Engineer and RAG Engineer roles in Sydney · Full working rights in Australia*
